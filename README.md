@@ -4,6 +4,7 @@ M. Virgolin
 A. Morales
 V. Porret
 
-POI = Final_code.ipynb
-Natural language Processing = Main_NLP.ipynb
+Persons Of Interest = Final_code.ipynb;
+Natural language Processing = Main_NLP.ipynb;
+Network Visualization = Network.ipynb
 
