@@ -1,10 +1,17 @@
 # Smart Data Analytics - University of St. Gallen
 
-M. Virgolin
-A. Morales
-V. Porret
+M. Virgolin </p>
+A. Morales </p>
+V. Porret </p>
 
-Persons Of Interest = Final_code.ipynb;
-Natural language Processing = Main_NLP.ipynb (link of the dataset (too huge for github : https://www.kaggle.com/wcukierski/enron-email-dataset). Change the name of the dataset in emails2.csv (as an email.csv file already exist in the folder). 
+Persons Of Interest = Final_code.ipynb; </p>
+
+Natural language Processing = Main_NLP.ipynb </p>
+
+source of the database : https://www.kaggle.com/wcukierski/enron-email-dataset
+-> Download the file and name it "mails2.csv". The file was too huge to be integrated in GitHub. 
+
+</p>
+
 Network Visualization = Network.ipynb (in the .zip)
 
